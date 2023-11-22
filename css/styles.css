@@ -70,6 +70,16 @@ div#section2Text{
 .section2Img{
     border-top: 20px;
 }
+
+#button1{
+    color: black;
+    background-color: lightgray;
+    transition: background-color 350ms;
+}
+
+#button1:hover{
+    background-color: yellowgreen;
+}
 footer{
     width: 100%;
     height: 90px;
