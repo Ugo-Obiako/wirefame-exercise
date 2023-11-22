@@ -15,7 +15,6 @@ nav{
     padding: 10px;
 }
 #nav-Container{
-    /*width: 100%; */
     display: flex;
     background-color: blue;
 }
@@ -47,12 +46,9 @@ div#section1{
 }
 
 div#sub-banner{
-    /*width: 960px; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /*justify-content: space-between;
-    align-items: center; */
 }
 
 div#section2Container{
